@@ -7,6 +7,7 @@
 - `Windows Power Shell`. Более новый аналог *Командной стоки* из стандартного набора Windows: `Пуск` -> `Windows Power Shell` -> `Windows Power Shell`
 - `Windows Terminal`. Красивая и удобная консоль от Microsoft. Берется из стандартного магазина приложений **Microsoft Store** через поиск или по ссылке [ссылка на Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701)
 - `MobaXTerm` - стороняя многофункциональная программка. Скачать можно по адресу [mobaxterm.mobatek.net](https://mobaxterm.mobatek.net/)
+
 ### Подключение
 Для подключения к серверу через протокол `ssh` потребуется ввести одну команду в консоли:
 ```bash
